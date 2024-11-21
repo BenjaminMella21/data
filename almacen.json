@@ -1,0 +1,164 @@
+{
+  "usuarios": [
+    {
+      "id": "1",
+      "username": "usuario1",
+      "password": "duoc1234",
+      "email": "usuario1@mail.cl",
+      "rut": "21543851-4",
+      "isactive": true,
+      "image": "",
+      "ramos": [
+        {
+          "id": "003D",
+          "nombre": "PROGRAMACION DE APLICACIONES MOVILES",
+          "horario": "13:41 - 14:20",
+          "dia": "Martes",
+          "sala": "208",
+          "docente": "VIVIANA SOLEDAD POBLETE LOPEZ"
+        }
+      ]
+    },
+    {
+      "id": "2",
+      "username": "usuario2",
+      "password": "maipu1234",
+      "email": "usuario2@mail.cl",
+      "rut": "19432672-5",
+      "isactive": true,
+      "image": "",
+      "ramos": [
+        {
+          "id": "001D",
+          "nombre": "ETICA PARA EL TRABAJO",
+          "horario": "13:01 - 14:20",
+          "dia": "Lunes",
+          "sala": "441",
+          "docente": "EDITH HERNANDEZ INOSTROZA"
+        },
+        {
+          "id": "002D",
+          "nombre": "ESTADISTICAS DESCRIPTIVA",
+          "horario": "14:31 - 15:50",
+          "dia": "Lunes",
+          "sala": "224",
+          "docente": "FERNANDA LILIANA ALFARO RAMIREZ"
+        },
+        {
+          "id": "003D",
+          "nombre": "PROGRAMACION DE APLICACIONES MOVILES",
+          "horario": "13:41 - 14:20",
+          "dia": "Martes",
+          "sala": "208",
+          "docente": "VIVIANA SOLEDAD POBLETE LOPEZ"
+        },
+        {
+          "id": "004D",
+          "nombre": "ARQUITECTURA",
+          "horario": "16:01 - 17:20",
+          "dia": "Martes",
+          "sala": "209",
+          "docente": "JULIAN ALEJANDRO CORVALAN CARRASCO"
+        },
+        {
+          "id": "005D",
+          "nombre": "CALIDAD DE SOFTWARE",
+          "horario": "11:31 - 12:50",
+          "dia": "Viernes",
+          "sala": "208",
+          "docente": "FRANCISCO ARTURO VALDIVIESO TAPIA"
+        },
+        {
+          "id": "006D",
+          "nombre": "INGLES INTERMEDIO",
+          "horario": "14:31 - 15:50",
+          "dia": "Viernes",
+          "sala": "221",
+          "docente": "ALEXANER PATRICIO IBARRA SOTO"
+        }
+      ]
+    },
+    {
+      "id": "5155",
+      "username": "Benjamin",
+      "email": "benllamin44@gmail.com",
+      "password": "ben88181",
+      "rut": "21351813-5",
+      "isactive": true,
+      "image": ""
+    },
+    {
+      "id": "7abb",
+      "username": "matias",
+      "email": "matias21@gmail.com",
+      "rut": "46375431-1",
+      "password": "ben88181",
+      "isactive": true
+    }
+  ],
+  "ramos": [
+    {
+      "id": "001D",
+      "nombre": "ETICA PARA EL TRABAJO",
+      "horario": "13:01 - 14:20",
+      "dia": "Lunes",
+      "sala": "441",
+      "docente": "EDITH HERNANDEZ INOSTROZA"
+    },
+    {
+      "id": "002D",
+      "nombre": "ESTADISTICAS DESCRIPTIVA",
+      "horario": "14:31 - 15:50",
+      "dia": "Lunes",
+      "sala": "224",
+      "docente": "FERNANDA LILIANA ALFARO RAMIREZ"
+    },
+    {
+      "id": "003D",
+      "nombre": "PROGRAMACION DE APLICACIONES MOVILES",
+      "horario": "13:41 - 14:20",
+      "dia": "Martes",
+      "sala": "208",
+      "docente": "VIVIANA SOLEDAD POBLETE LOPEZ"
+    },
+    {
+      "id": "004D",
+      "nombre": "ARQUITECTURA",
+      "horario": "16:01 - 17:20",
+      "dia": "Martes",
+      "sala": "209",
+      "docente": "JULIAN ALEJANDRO CORVALAN CARRASCO"
+    },
+    {
+      "id": "005D",
+      "nombre": "CALIDAD DE SOFTWARE",
+      "horario": "11:31 - 12:50",
+      "dia": "Viernes",
+      "sala": "208",
+      "docente": "FRANCISCO ARTURO VALDIVIESO TAPIA"
+    },
+    {
+      "id": "006D",
+      "nombre": "INGLES INTERMEDIO",
+      "horario": "14:31 - 15:50",
+      "dia": "Viernes",
+      "sala": "221",
+      "docente": "ALEXANER PATRICIO IBARRA SOTO"
+    }
+  ],
+  "qrs": [
+    {},
+    {
+
+    }
+  ],
+  "justificaciones": [
+    {
+      "estudiante": "Benjamin",
+      "motivo": "Enfermedad",
+      "fecha": "2024-11-18",
+      "asignatura": "PROGRAMACION DE APLICACIONES MOVILES",
+      "comentario": ""
+    }
+  ]
+}
